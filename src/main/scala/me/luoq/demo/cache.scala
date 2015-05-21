@@ -23,4 +23,3 @@ object MultiCachePut extends App{
   put2(100) map println
   put1(100) map println
 }
-
